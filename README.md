@@ -1,12 +1,6 @@
-# PubBike_서울시 공공자전거 따릉이 이용 패턴 분석 프로젝트
-
-<div align="center">
-  <strong>공공데이터 포털 데이터를 활용한 데이터 분석 및 활용 아이디어</strong>
-</div>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
-> 2025 선·후배 멘토링 우수상 공공데이터 포털(data.go.kr)의 데이터를 활용한 창의적인 데이터 분석 및 활용 아이디어
+> 2025 선·후배 멘토링 우수상 
 
 ---
 
