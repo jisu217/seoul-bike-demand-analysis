@@ -12,7 +12,6 @@
 4.  [**분석 방법론**](#4-분석-방법론)
 5.  [**핵심 기술 및 문제 해결**](#5-핵심-기술-및-문제-해결)
 6.  [**팀원 소개**](#7-팀원-소개)
-7.  [**데이터 파이프라인**](#8-데이터-파이프라인)
 
 ---
 
@@ -61,6 +60,25 @@
 | Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white) <br> `Plotly` `Folium` `Geopandas` |
 | Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 | Development | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+## 🛠️ 기술 스택
+
+### 데이터 분석
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 시각화
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+
+### 데이터베이스
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -122,72 +140,11 @@
 | 역할 | 이름 | 
 | :--- | :--- | 
 | 멘토 | 마다현 | 
-| 팀장 | 강지수 | 
-| 팀원 | 권순범 |
-| 팀원 | 김수아 | 
-| 팀원 | 김요한 | 
-| 팀원 | 박해영 |
-| 팀원 | 아크멧 다리가 | 
-
----
-
-## 7. 데이터 파이프라인
-
-```mermaid
-graph TB
-    subgraph "Data Collection Layer"
-        A[Seoul Open Data Portal API]
-        B[Weather Data API]
-        C[Event Calendar Data]
-    end
-    
-    subgraph "Data Processing Layer"
-        D[Raw Data Ingestion]
-        E[Data Cleaning & Validation]
-        F[Feature Engineering]
-        G[Data Transformation]
-    end
-    
-    subgraph "Analytics Layer"
-        H[Exploratory Data Analysis]
-        I[Time Series Analysis]
-        J[Spatial Analysis]
-        K[Machine Learning Models]
-    end
-    
-    subgraph "Output Layer"
-        L[Demand Prediction Dashboard]
-        M[User Pattern Analysis Report]
-        N[Policy Recommendation System]
-        O[Real-time Monitoring]
-    end
-    
-    subgraph "Infrastructure"
-        P[PostgreSQL Database]
-        Q[Python Analytics Engine]
-        R[Jupyter Notebook Environment]
-        S[GitHub Repository]
-    end
-    
-    A --> D
-    B --> D
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    G --> I
-    G --> J
-    H --> K
-    I --> K
-    J --> K
-    K --> L
-    K --> M
-    K --> N
-    K --> O
-    P --> Q
-    Q --> R
-    S --> R
-```
+| 멘티 | 강지수 | 
+| 멘티 | 권순범 |
+| 멘티 | 김수아 | 
+| 멘티 | 김요한 | 
+| 멘티 | 박해영 |
+| 멘티 | 아크멧 다리가 | 
 
 ---
