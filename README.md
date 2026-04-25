@@ -2,7 +2,8 @@
 
 ---   
 
-1. Tech Stack   
+1. Tech Stack
+
 | Category | Stack |
 | :--- | :--- |
 | Data Analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
@@ -12,6 +13,7 @@
 ---   
 
 2. Team Members
+
 | Role | Name | 
 | :--- | :--- | 
 | Mentor | 마다현 | 
