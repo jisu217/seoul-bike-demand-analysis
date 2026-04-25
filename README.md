@@ -7,7 +7,7 @@
 | Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge) |
 | Database | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 
----
+---   
 
 | Role | Name | 
 | :--- | :--- | 
